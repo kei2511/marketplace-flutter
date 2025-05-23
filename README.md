@@ -1,6 +1,6 @@
 # marketplace_flutter
 
-A new Flutter project.
+Membuat Marketplace Aplikasi Android berbasis Flutter.
 
 ## Getting Started
 
