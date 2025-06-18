@@ -6,8 +6,12 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
 
     namespace = "com.example.marketplace_flutter"
+=======
+    namespace = "com.example.flutter_application_marketplace"
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -22,9 +26,13 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
 
         applicationId = "com.example.marketplace_flutter"
 
+=======
+        applicationId = "com.example.flutter_application_marketplace"
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

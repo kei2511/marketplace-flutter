@@ -5,9 +5,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 
 	<string>Marketplace Flutter</string>
 
+=======
+	<string>Flutter Application Marketplace</string>
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,9 +19,13 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 
 	<string>marketplace_flutter</string>
 
+=======
+	<string>flutter_application_marketplace</string>
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

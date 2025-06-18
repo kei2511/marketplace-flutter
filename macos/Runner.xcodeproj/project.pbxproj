@@ -64,9 +64,13 @@
 		331C80D7294CF71000263BE5 /* RunnerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunnerTests.swift; sourceTree = "<group>"; };
 		333000ED22D3DE5D00554162 /* Warnings.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Warnings.xcconfig; sourceTree = "<group>"; };
 		335BBD1A22A9A15E00E9071D /* GeneratedPluginRegistrant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneratedPluginRegistrant.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
 
 		33CC10ED2044A3C60003C045 /* marketplace_flutter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "marketplace_flutter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 
+=======
+		33CC10ED2044A3C60003C045 /* flutter_application_marketplace.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "flutter_application_marketplace.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 		33CC10F02044A3C60003C045 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33CC10F22044A3C60003C045 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Runner/Assets.xcassets; sourceTree = "<group>"; };
 		33CC10F52044A3C60003C045 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
@@ -133,9 +137,13 @@
 		33CC10EE2044A3C60003C045 /* Products */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 
 				33CC10ED2044A3C60003C045 /* marketplace_flutter.app */,
 
+=======
+				33CC10ED2044A3C60003C045 /* flutter_application_marketplace.app */,
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 				331C80D5294CF71000263BE5 /* RunnerTests.xctest */,
 			);
 			name = Products;
@@ -221,9 +229,13 @@
 			);
 			name = Runner;
 			productName = Runner;
+<<<<<<< HEAD
 
 			productReference = 33CC10ED2044A3C60003C045 /* marketplace_flutter.app */;
 
+=======
+			productReference = 33CC10ED2044A3C60003C045 /* flutter_application_marketplace.app */;
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -391,12 +403,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
+<<<<<<< HEAD
 
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.marketplaceFlutter.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/marketplace_flutter.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/marketplace_flutter";
 
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.flutterApplicationMarketplace.RunnerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flutter_application_marketplace.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/flutter_application_marketplace";
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 			};
 			name = Debug;
 		};
@@ -407,12 +426,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
+<<<<<<< HEAD
 
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.marketplaceFlutter.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/marketplace_flutter.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/marketplace_flutter";
 
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.flutterApplicationMarketplace.RunnerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flutter_application_marketplace.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/flutter_application_marketplace";
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 			};
 			name = Release;
 		};
@@ -423,12 +449,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
+<<<<<<< HEAD
 
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.marketplaceFlutter.RunnerTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/marketplace_flutter.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/marketplace_flutter";
 
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.flutterApplicationMarketplace.RunnerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flutter_application_marketplace.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/flutter_application_marketplace";
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 			};
 			name = Profile;
 		};

@@ -15,9 +15,13 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
 
                BuildableName = "marketplace_flutter.app"
 
+=======
+               BuildableName = "flutter_application_marketplace.app"
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -33,9 +37,13 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
 
             BuildableName = "marketplace_flutter.app"
 
+=======
+            BuildableName = "flutter_application_marketplace.app"
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -70,9 +78,13 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
 
             BuildableName = "marketplace_flutter.app"
 
+=======
+            BuildableName = "flutter_application_marketplace.app"
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -89,9 +101,13 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
 
             BuildableName = "marketplace_flutter.app"
 
+=======
+            BuildableName = "flutter_application_marketplace.app"
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

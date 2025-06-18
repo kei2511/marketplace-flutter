@@ -40,6 +40,7 @@ static void my_application_activate(GApplication* application) {
   if (use_header_bar) {
     GtkHeaderBar* header_bar = GTK_HEADER_BAR(gtk_header_bar_new());
     gtk_widget_show(GTK_WIDGET(header_bar));
+<<<<<<< HEAD
 
     gtk_header_bar_set_title(header_bar, "marketplace_flutter");
     gtk_header_bar_set_show_close_button(header_bar, TRUE);
@@ -47,6 +48,13 @@ static void my_application_activate(GApplication* application) {
   } else {
     gtk_window_set_title(window, "marketplace_flutter");
 
+=======
+    gtk_header_bar_set_title(header_bar, "flutter_application_marketplace");
+    gtk_header_bar_set_show_close_button(header_bar, TRUE);
+    gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
+  } else {
+    gtk_window_set_title(window, "flutter_application_marketplace");
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
   }
 
   gtk_window_set_default_size(window, 1280, 720);

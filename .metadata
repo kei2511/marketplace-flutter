@@ -30,9 +30,12 @@ migration:
     - platform: web
       create_revision: ea121f8859e4b13e47a8f845e4586164519588bc
       base_revision: ea121f8859e4b13e47a8f845e4586164519588bc
+<<<<<<< HEAD
     - platform: windows
       create_revision: ea121f8859e4b13e47a8f845e4586164519588bc
       base_revision: ea121f8859e4b13e47a8f845e4586164519588bc
+=======
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 
   # User provided section
 

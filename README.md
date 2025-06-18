@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 
 # marketplace_flutter
 
 Membuat Marketplace Aplikasi Android berbasis Flutter.
 
 TESTINGGG GIT
+=======
+# flutter_application_marketplace
+
+A new Flutter project.
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
 
 ## Getting Started
 

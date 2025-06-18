@@ -1,8 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
 
         android:label="marketplace_flutter"
 
+=======
+        android:label="flutter_application_marketplace"
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,8 +1,13 @@
 {
+<<<<<<< HEAD
 
     "name": "marketplace_flutter",
     "short_name": "marketplace_flutter",
 
+=======
+    "name": "flutter_application_marketplace",
+    "short_name": "flutter_application_marketplace",
+>>>>>>> b5d667bb9e1040639325369b8bcb228e04b91aa0
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
