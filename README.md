@@ -1,6 +1,8 @@
-# flutter_application_1
 
-A new Flutter project.
+# marketplace_flutter
+
+Membuat Marketplace Aplikasi Android berbasis Flutter.
+
 
 ## Getting Started
 
