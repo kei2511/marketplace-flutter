@@ -1,7 +1,7 @@
 
 # marketplace_flutter
 
-Membuat Marketplace Aplikasi Android berbasis Flutter.
+Membuat Marketplace Aplikasi Android berbasis Flutter menggunakan Dart.
 
 
 ## Getting Started
